@@ -293,7 +293,6 @@ p lucas_sequence(7)
     prime numbers that multiply together to the given num. The array returned should contain numbers 
     in ascending order. Do this recursively.
 =end
-
 def prime_factorization(num)
-
+    
 end
